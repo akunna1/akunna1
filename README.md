@@ -26,9 +26,5 @@ I'm always open to collaborating on interesting projects or discussing tech tren
 You can drop me an email at **info@akunnatechstudio.com**. Let's build something amazing together!
 
 ## 📈 GitHub Stats
-![Akunna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akunna1&show_icons=true&count_private=true&hide=prs&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunna1&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akunna1&layout=compact&theme=radical)
 
