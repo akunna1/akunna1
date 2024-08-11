@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akunna Onyekachi
+# 👋 Hi, I'm Akunna
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **GIS Developer** with a knack for crafting efficient and innovative solutions. My expertise spans across both front-end and back-end development, with a special focus on Geographic Information Systems (GIS). I love turning complex problems into user-friendly applications that drive meaningful impact.
 
