@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akunna
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **GIS Developer** dedicated to creating efficient and innovative solutions. My expertise encompasses both front-end and back-end development, with a particular focus on Geographic Information Systems (GIS). I excel at transforming complex problems into user-friendly applications that make a meaningful impact.
+Welcome to my GitHub profile! I'm a passionate **Full Stack/ GIS Developer** dedicated to creating efficient and innovative solutions. My expertise encompasses both front-end and back-end development, with a particular focus on Geographic Information Systems (GIS). I excel at transforming complex problems into user-friendly applications that make a meaningful impact.
 
 ## Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
