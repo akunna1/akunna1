@@ -1,6 +1,6 @@
 # Hi, I'm Akunna. 👋 And I like to code.
 
-## Full-stack | GIS developer based in North Carolina
+## Full stack | GIS developer based in North Carolina
 
 ### Tech Stack 💻
 Some of my favourite technologies and tools at the moment.
