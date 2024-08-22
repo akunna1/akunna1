@@ -1,5 +1,7 @@
 # Hi, I'm Akunna. 👋 And I like to code.
 
+## Full-stack | GIS developer based in North Carolina
+
 Welcome to my GitHub profile! I'm a passionate **Full Stack/ GIS Developer** dedicated to creating efficient and innovative solutions. My expertise encompasses both front-end and back-end development, with a particular focus on Geographic Information Systems (GIS). I excel at transforming complex problems into user-friendly applications that make a meaningful impact.
 
 ## Tech Stack
