@@ -47,7 +47,7 @@ I’m open to collaborating on exciting projects or discussing technology trends
 You can email me at **info@akunnatechstudio.com**. Let’s create something amazing together!
 
 #### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunna1&theme=highcontrast&ring=FF69B4&fire=FF69B4&sideLabels=FFB6C1&background=FFC0CB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunna1&theme=tokyonight_duo&ring=FF69B4&fire=FF1493&sideLabels=FFD1DC&background=FFF0F5)
 
 ---
 
