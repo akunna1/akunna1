@@ -5,13 +5,13 @@
 ### Tech Stack 💻
 Some of my favourite technologies and tools at the moment.
 
-- React.js, Vue.js
-- R, Python
-- TailwindCSS, Sass CSS
-- Express.js, Node.js
-- PostgreSQL, MongoDB, MySQL
-- Supabase, Firebase
-- ArcGIS, GEE 🗺️
+- React.js and Vue.js
+- R and Python
+- TailwindCSS and Sass CSS
+- Express.js and Node.js
+- PostgreSQL, MongoDB, and MySQL
+- Supabase and Firebase
+- ArcGIS, QGIS and GEE 🗺️
 - VS Code
 
 What I like 💗
@@ -32,7 +32,7 @@ I design and build full-stack applications with a focus on performance and scala
 Explore some of my projects on GitHub where I combine my full-stack and GIS skills to develop solutions that address real-world problems.
 
 
-##  How to Reach Me 💌
+###  How to Reach Me 💌
 - [LinkedIn](https://www.linkedin.com/in/akunna1)
 - [Blog](https://akunnawrites.com/)
 - [Personal Website](https://akunnatechstudio.com)
@@ -43,9 +43,6 @@ You can email me at **info@akunnatechstudio.com**. Let’s create something amaz
 
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunna1&theme=dark)
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akunna1)
 
 ---
 
