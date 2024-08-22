@@ -5,14 +5,15 @@
 ### Tech Stack 💻
 Some of my favourite technologies and tools at the moment.
 
-React, Vue.js, Remix, Next/Nuxt
-JavaScript/TypeScript
-TailwindCSS, shadcn/ui
-Node.js
-PostgreSQL
-Supabase
-Docker 🐳
-GitHub Actions
+- React, Vue.js, Remix, Next/Nuxt
+- JavaScript/TypeScript
+- TailwindCSS, shadcn/ui
+- Node.js
+- PostgreSQL
+- Supabase
+- Docker 🐳
+- GitHub Actions
+
 
 ## Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
