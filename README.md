@@ -5,14 +5,14 @@
 ### Tech Stack 💻
 Some of my favourite technologies and tools at the moment.
 
-- React, Vue.js, Remix, Next/Nuxt
-- JavaScript/TypeScript
-- TailwindCSS, shadcn/ui
+- React.js, Vue.js
+- R, Python
+- TailwindCSS, Sass CSS
 - Node.js
-- PostgreSQL
-- Supabase
-- Docker 🐳
-- GitHub Actions
+- PostgreSQL, MongoDB
+- Supabase, Firebase
+- ArcGIS, GEE 🗺️
+- VS Code
 
 
 ## Tech Stack
