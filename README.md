@@ -10,8 +10,8 @@ Some of my favourite technologies and tools at the moment.
 - R and Python
 - Tailwind CSS and Sass CSS
 - Express.js and Node.js
-- PostgreSQL, MongoDB, and MySQL
-- Supabase and Firebase
+- Firebase, MongoDB, and MySQL
+- React Native
 - ArcGIS, QGIS and GEE 🗺️
 - VS Code
 
