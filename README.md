@@ -19,7 +19,7 @@ What I like 💗
 
 - Frontend. Backend. Food. 😝
 - Automating EVERYTHING
-- Keeping things neat, cluster free, and simple - My code, my home, my life
+- Keeping things neat, cluster free, and simple - my code, my home, my life
 - A nice cup of hot chocolate with a croissant 🥐 ☕
 - Motorcycles 🏍️ 🏍️
 - Books 📖 📚 👓
