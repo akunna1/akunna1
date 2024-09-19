@@ -24,7 +24,7 @@ What I like 💗
 - Motorcycles 🏍️ 🏍️
 - Books 📖 📚 👓
 - My saxophone 🎷
-- The ocean 🌊 🌊 🌊
+- Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
 
 
 #### What I Do
