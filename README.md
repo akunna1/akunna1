@@ -25,11 +25,12 @@ What I like 💗
 - Books 📖 📚 👓
 - My saxophone 🎷
 - Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
+- Faith Tech ✨
 
 
 #### What I Do
 
-I design and build full-stack applications with a focus on performance and scalability. My GIS projects involve creating dynamic and interactive maps, spatial data analysis, and location-based services. I am always seeking to enhance my skills and embrace new challenges.
+I design and develop full-stack applications that seamlessly integrate GIS and data science, with a strong emphasis on performance and scalability. My GIS work includes crafting dynamic, interactive maps, conducting spatial data analysis, and building location-based services. I’m driven by a passion for continuous learning and excited to tackle new challenges to expand my expertise.
 
 #### Projects
 
