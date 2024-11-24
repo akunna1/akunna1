@@ -30,7 +30,7 @@ What I like 💗
 
 #### What I Do
 
-I design and develop full-stack applications that seamlessly integrate GIS and data science, with a strong emphasis on performance and scalability. My GIS work includes crafting dynamic, interactive maps, conducting spatial data analysis, and building location-based services. I’m driven by a passion for continuous learning and excited to tackle new challenges to expand my expertise.
+I’m a developer passionate about integrating GIS and data science into web and mobile apps. I build full-stack applications focused on performance, scalability, and innovative solutions, including mental well-being projects. My GIS work features interactive maps, spatial analysis, and location-based services. I'm always eager to learn, and I embrace new challenges.
 
 #### Projects
 
