@@ -20,10 +20,11 @@ What I like 💗
 - Frontend. Backend. Food. 😝
 - Automating EVERYTHING
 - Keeping things neat, cluster free, and simple - my code, my home, my life
-- Bubble tea with sushi🧋🍣🥢
+- Bubble tea with sushi🧋🍣
 - Motorcycles 🏍️ 🏍️
 - Books 📖 📚 👓
 - My saxophone 🎷
+- Classical and Jazz Music 🎶
 - Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
 - Faith Tech ✨
 
