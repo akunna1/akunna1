@@ -12,7 +12,7 @@ Some of my favourite technologies and tools at the moment.
 - Express.js and Node.js
 - Firebase, MongoDB, and GC Storage
 - React Native
-- ArcGIS, QGIS and GEE 🗺️
+- ArcGIS, Mapbox.js and GEE 🗺️
 - VS Code
 
 What I like 💗
