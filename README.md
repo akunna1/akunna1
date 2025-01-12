@@ -6,7 +6,7 @@
 
 Some of my favourite technologies and tools at the moment.
 
-- React.js and Vue.js
+- React.js and Next.js
 - R and Python
 - Tailwind CSS and Sass CSS
 - Express.js and Node.js
