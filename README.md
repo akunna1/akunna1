@@ -10,16 +10,16 @@ Some of my favourite technologies and tools at the moment.
 - R and Python
 - Tailwind CSS and Sass CSS
 - Express.js and Node.js
-- Firebase, MongoDB, and GC Storage
+- Firebase, Neon and GC Storage
 - React Native
-- ArcGIS, Mapbox.js and GEE 🗺️
+- ArcGIS, Leaflet.js and GEE 🗺️
 - VS Code
 
 What I like 💗
 
 - Frontend. Backend. Food. 😝
 - Automating EVERYTHING
-- Keeping things neat, cluster free, and simple - my code, my home, my life
+- Keeping things neat, cluster free, and simple - my codes, my home, my life
 - Bubble tea with sushi🧋🍣
 - Motorcycles 🏍️ 🏍️
 - Books 📖 📚 👓
@@ -31,7 +31,7 @@ What I like 💗
 
 #### What I Do
 
-I’m a developer passionate about integrating GIS and data science into web and mobile apps. I build full-stack applications focused on performance, scalability, and innovative solutions, including mental well-being projects. My GIS work features interactive maps, spatial analysis, and location-based services. I'm always eager to learn, and I embrace new challenges.
+I’m a developer passionate about integrating GIS and data science into web and mobile apps. I build full-stack applications focused on performance, scalability, and innovative solutions, including mental well-being and community building projects. My GIS work features interactive maps, spatial analysis, and location-based services. I'm always eager to learn, and I embrace new challenges.
 
 #### Projects
 
