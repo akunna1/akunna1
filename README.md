@@ -25,6 +25,7 @@ What I like 💗
 - Books 📖 📚 👓
 - My saxophone 🎷
 - Classical and Jazz Music 🎶
+- Blogging
 - Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
 - Debates
 - Faith Tech ✨
