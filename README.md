@@ -1,6 +1,6 @@
 ## Hi, I'm Akunna. 👋 And I like to code.
 
-### Geospatial developer based in North Carolina
+### Geospatial Developer based in North Carolina
 
 #### Tech Stack 💻
 
