@@ -8,7 +8,7 @@ Some of my favourite technologies and tools at the moment.
 
 - React.js and Next.js
 - R, Python, and Power BI
-- Tailwind CSS and ShadCN
+- Tailwind CSS and ShadCN 🎨
 - Express.js and Node.js
 - Firebase, Neon and GC Storage
 - React Native
