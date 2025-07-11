@@ -1,4 +1,4 @@
-## Hi, I'm Akunna. 👋 And I like to create maps and code.
+## Hi, I'm Akunna. 👋 And I like to create maps & code.
 
 ### Geospatial Developer based in North Carolina
 
@@ -6,13 +6,13 @@
 
 Some of my favourite technologies and tools at the moment.
 
-- React.js and Next.js
 - R, Python, and Power BI
-- Tailwind CSS and ShadCN 🎨
+- React.js and Next.js
+- ArcGIS, Leaflet.js and QGIS 🗺️
 - Express.js and Node.js
 - Firebase, Neon and GC Storage
 - React Native
-- ArcGIS, Leaflet.js and QGIS 🗺️
+- Tailwind CSS and ShadCN 🎨
 - VS Code
 
 What I like 💗
