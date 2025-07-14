@@ -43,10 +43,10 @@ Explore some of my projects on GitHub where I combine my full-stack and GIS skil
 ####  How to Reach Me 💌 + Major Web projects 👩🏾‍💻
 
 - [LinkedIn](https://www.linkedin.com/in/akunna1)
-- [Promoting Igbo Language Literacy →](https://akunnawrites.com/)
-- [Portfolio for most projects →](https://akunnatechstudio.com)
-- [Breaking Down Eschatology for us Theology Nerds →](https://www.endtimescounterfeit.com/)
-- [Web Dev Study Notes →](https://akunna-studies.vercel.app/)
+- [Blog](https://akunnawrites.com/) Want to join me to promote igbo language literacy?
+- [Portfolio](https://akunnatechstudio.com) For my major projects
+- [ETC](https://www.endtimescounterfeit.com/) Breaking Down Eschatology for us Theology Nerds
+- [Study](https://akunna-studies.vercel.app/) Wed dev study notes
 
 I’m open to collaborating on exciting projects or discussing technology trends. Feel free to reach out!
 
