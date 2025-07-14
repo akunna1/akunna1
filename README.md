@@ -44,7 +44,7 @@ Explore some of my projects on GitHub where I combine my full-stack and GIS skil
 
 - [LinkedIn](https://www.linkedin.com/in/akunna1)
 - [Blog](https://akunnawrites.com/)
-- [Portfolio Website](https://akunnatechstudio.com)
+- [Portfolio](https://akunnatechstudio.com)
 
 I’m open to collaborating on exciting projects or discussing technology trends. Feel free to reach out!
 
