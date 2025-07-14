@@ -40,13 +40,11 @@ I’m a developer passionate about integrating GIS and data science into web and
 Explore some of my projects on GitHub where I combine my full-stack and GIS skills to develop solutions that address real-world problems.
 
 
-####  How to Reach Me 💌 + Major Web projects 👩🏾‍💻
+####  How to Reach Me 💌
 
 - [LinkedIn](https://www.linkedin.com/in/akunna1)
 - [Blog](https://akunnawrites.com/)
 - [Portfolio](https://akunnatechstudio.com)
-- [ETC](https://www.endtimescounterfeit.com/)
-- [Study](https://akunna-studies.vercel.app/)
 
 I’m open to collaborating on exciting projects or discussing technology trends. Feel free to reach out!
 
