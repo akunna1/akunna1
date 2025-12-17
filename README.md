@@ -55,7 +55,7 @@ You can email me at **info@akunnatechstudio.com**. Let’s create something amaz
 
 #### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akunna1&theme=bubblegum&ring=FFB6C1&fire=FF69B4&sideLabels=FF1493&background=FFF5F5)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akunna1&show_icons=true&theme=rose)
 ---
 
 
