@@ -35,7 +35,7 @@ What I like 💗
 
 I’m a developer passionate about integrating GIS and data science into web and mobile apps. I build full-stack applications focused on performance, scalability, and innovative solutions, including mental well-being, educational, and community building projects. My GIS work features interactive maps, spatial analysis, and location-based services. I'm always eager to learn, and I embrace new challenges.
 
-👉🏽 DISCLAIMER: I’m no genius, but I’ll surely get the work done! Finding patterns and attention to detail are my strong suits.
+👉🏽 DISCLAIMER: I’m no genius, but I’ll surely get the work done! Finding patterns and paying attention to details are my strong suits.
 
 #### Projects
 
