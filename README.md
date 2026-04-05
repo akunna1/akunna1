@@ -23,7 +23,7 @@ What I like 💗
 - Bubble tea with sushi🧋🍣
 - Electric Scooters 🛴
 - Books 📖 📚 👓
-- My saxophone 🎷
+- My clarinet & saxophone 🎷
 - Classical and Jazz Music 🎶
 - Blogging
 - Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
