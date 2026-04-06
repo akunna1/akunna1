@@ -10,7 +10,7 @@ Some of my favourite technologies and tools at the moment.
 - React.js and Next.js
 - AutoCAD, ArcGIS, Leaflet, and QGIS 🗺️
 - Express.js and Node.js
-- Firebase, Neon, and GC Storage
+- Firebase, Neon, and Supabase
 - React Native
 - Tailwind CSS and ShadCN 🎨
 - VS Code
