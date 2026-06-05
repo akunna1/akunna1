@@ -11,7 +11,6 @@ Some of my favourite technologies and tools at the moment.
 - AutoCAD, ArcGIS, Leaflet, and QGIS 🗺️
 - Express.js and Node.js
 - Firebase, Neon, and Supabase
-- React Native
 - Tailwind CSS and ShadCN 🎨
 - VS Code
 
@@ -35,7 +34,7 @@ What I like 💗
 
 I’m a developer passionate about integrating GIS and data science into web and mobile apps. I build full-stack applications focused on performance, scalability, and innovative solutions, including mental well-being, educational, and community building projects. My GIS work features interactive maps, spatial analysis, and location-based services. I'm always eager to learn, and I embrace new challenges.
 
-👉🏽 DISCLAIMER: I’m no genius, but I’ll surely figure things out! Finding patterns and paying attention to details are my strong suits.
+👉🏽 DISCLAIMER: I’m no genius, but I’m good at figuring things out! Finding patterns and paying attention to details are my strong suits.
 
 #### Projects
 
