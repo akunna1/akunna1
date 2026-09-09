@@ -24,7 +24,7 @@ What I like 💗
 - Books 📖 📚 👓
 - My clarinet & saxophone 🎷
 - Classical and Jazz Music 🎶
-- Blogging
+- Blogging and writing Nollywood playscripts
 - Pool Swimming 🏊‍♀️ 🏊‍♀️ 🏊‍♀️
 - Debates
 - Faith Tech ✨
