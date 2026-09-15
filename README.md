@@ -7,7 +7,7 @@
 Some of my favourite technologies and tools at the moment.
 
 - R, Python, and Power BI
-- React.js and Next.js
+- React and Next.js
 - AutoCAD, ArcGIS, Leaflet, and QGIS 🗺️
 - Express.js and Node.js
 - Firebase, Neon, and Supabase
