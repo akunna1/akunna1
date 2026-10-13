@@ -13,6 +13,7 @@ Some of my favourite technologies and tools at the moment.
 - Firebase, Neon, and Supabase
 - Tailwind CSS and ShadCN 🎨
 - VS Code
+- Vercel
 
 What I like 💗
 
