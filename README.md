@@ -1,4 +1,4 @@
-## Hi, I'm Akunna. 👋 And I like to create maps & code.
+## Hi, I'm Akunna. 👋 And I like to code & create maps.
 
 ### Geospatial Developer based in North Carolina
 
