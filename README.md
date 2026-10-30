@@ -20,7 +20,7 @@ What I like 💗
 - Frontend. Backend. GIS. Food. 😝
 - Automating EVERYTHING
 - Keeping things neat, cluster free, and simple - my codes, my home, my life
-- Bubble tea with sushi🧋🍣
+- Bubble tea & sushi🧋🍣
 - Electric Scooters 🛴
 - Books 📖 📚 👓
 - My clarinet & saxophone 🎷
